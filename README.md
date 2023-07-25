@@ -3,7 +3,7 @@
 ## Overview
 Case study provided and developed during the "SQL - MySQL for Data Analytics and Business Intelligence" course by Udemy. The aim of the project is to answer 4 business questions related to employee demographics, management and salary comparison, through working on a comprehensive database which can be found in the "employees_mod.sql" file (under the "employees_mod.zip" folder), along with its relational schema in the "employees_mod_db.pdf" file. The project combines the power of SQL queries to extract relevant data and Tableau to visualize the results in an intuitive and informative dashboard. The whole course can be found here: https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/
 
-## Business Questions
+## SQL Queries
 1. Employee Gender Breakdown Each Year
 
    To provide a detailed breakdown of the gender distribution among employees over the years, I created a bar chart displaying the number of male and female           employees working in the company each year, starting from 1990. The original business question along with the relevant SQL solution can be accessed through         the "Task1.sql" file.
